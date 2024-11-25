@@ -1,0 +1,34 @@
+body {
+  background-color: #155368;
+  color: #2581a0;
+  font-family: "Rubik Wet Paint", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  margin: 100px
+} 
+
+button {
+  background-color: #36515a;
+  color: #63a4b9;
+  font-family:"Oswald", sans-serif;
+}
+
+.passo {
+  display: none;
+}
+
+.passo.ativo{
+  display: block;
+}
+
+main {
+  text-align: center;
+  max-width: 90%;
+}
+
+img {
+  max-width: 90%;
+}
+
